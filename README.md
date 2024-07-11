@@ -5,7 +5,7 @@ Student Information: Name: Bodasu Srinivas  Student Id: 700764795 Email : sriniv
 
 Githublink: https://github.com/Srinivas706/ICP-3
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1X2R0wy9SQHhwefdO4vH0lhz05ZxL3mf6/view?usp=sharing
 
 Question 1. Use Case Description: Predicting the diabetes disease Programming elements: Keras Basics In class programming:
 
